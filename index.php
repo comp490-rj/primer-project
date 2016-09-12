@@ -13,7 +13,7 @@
 
 	header('X-COMP-490: rj970793');
 	
-	$page_title = "Ramin's Proj 1";
+	$page_title = "Ramin's Primer Project";
 	$external_url = 'http://www.csun.edu/~jeffw/';
 	$current_date = date('d/m/Y H:i:s');
 	$http_host = $_SERVER['HTTP_HOST'];
